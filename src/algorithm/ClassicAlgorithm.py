@@ -1,4 +1,8 @@
+#
 # klasyczny algorytm O(N) zwracajacy poprawny wynik
+#
+
+
 def run_linear_algorithm(grades):
     cookies = []
     if len(grades) == 1:
