@@ -200,4 +200,4 @@ __pycache__/ClassicAlgorithm.cpython-38.pyc
 __pycache__/Generator.cpython-38.pyc
 venv/Include/
 !/.gitignore
-!/.gitignore
+/venv/
